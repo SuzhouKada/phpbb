@@ -1,0 +1,48 @@
+##############################################################
+## MOD Title: Page2Images Visual Link Plugin
+## MOD Author: SuzhouKada http://www.page2images.com
+## MOD Description: This plugin allow you visualize links of your website 
+## by just one click installation. When user move mouse over the text links, 
+## they will see a preview picture of this link. By default, [only extra links] 
+## will have preview thumbnails. You can change the setting in the JS files.
+## MOD Version: 1.0.0
+## 
+## Installation Level: Easy
+## Installation Time: 2 minutes
+## 
+## Included Files: 
+##		root/insertCode.html
+##		root/p2i.thumbnails.js
+## 
+## License: http://opensource.org/licenses/gpl-license.php GNU General Public License v2
+##############################################################
+## For security purposes, please check: http://www.phpbb.com/mods/
+## for the latest version of this MOD. Although MODs are checked
+## before being allowed in the MODs Database there is no guarantee
+## that there are no security problems within the MOD. No support
+## will be given for MODs not found within the MODs Database which
+## can be found at http://www.phpbb.com/mods/
+##############################################################
+## Author Notes: 
+## 
+##############################################################
+## MOD History: 
+## 
+##	2014-02-24 - Version 1.0.0
+##		- First release
+## 
+##############################################################
+## Before Adding This MOD To Your Forum, You Should Back Up All Files Related To This MOD
+##############################################################
+
+#
+#-----[ COPY ]------------------------------------------
+#
+copy root/insertCode.html to insertCode.html
+copy root/p2i.thumbnails.js to p2i.thumbnails.js
+#
+#-----[ OPEN ]------------------------------------------
+#
+posting.php
+#
+# EoM
